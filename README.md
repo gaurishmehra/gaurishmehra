@@ -17,11 +17,6 @@
 - LLMs are mathematical pattern matchers, not "true AI"
 - The universe is vast and full of possibilities
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishmehra&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ## Connect With Me
 <p align="center">
   <a href="https://twitter.com/GaurishMehra" target="_blank">
