@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gaurish Mehra</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student+%7C+JEE+Aspirant;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**gaurishmehra/gaurishmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 17-year-old student from India
+- 📚 Currently preparing for JEE
+- 💻 Full-stack developer
+- 🌟 Passionate about open source LLMs
 
-Here are some ideas to get you started:
+## Current Status
+🔒 All projects are temporarily private while focusing on JEE preparations. They'll be back soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thoughts & Opinions
+- Open-source is the future of technology
+- LLMs are mathematical pattern matchers, not "true AI"
+- The universe is vast and full of possibilities
+
+## Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurishmehra&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## Connect With Me
+<p align="center">
+  <a href="https://twitter.com/GaurishMehra" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/gaurishmehra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">✨ Let's build something amazing together after JEE! ✨</p>
