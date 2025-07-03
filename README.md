@@ -5,7 +5,6 @@
   <p>
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JEE+Aspirant;Open+Source+Enthusiast;Computational+Thinking;Problem+Solver" alt="Typing SVG" />
   </p>
-
   <a href="https://github.com/gaurishmehra"><img src="https://img.shields.io/github/followers/gaurishmehra?label=Follow&style=social" alt="GitHub followers"></a>
   
   <!-- Profile View Counter -->
@@ -13,13 +12,12 @@
   
   <br/>
   
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 ---
 
 ## 💫 About Me
-
 ```typescript
 const gaurish = {
   age: 17,
@@ -29,7 +27,7 @@ const gaurish = {
     focus: ["Studies", "Coding", "Gaming"]
   },
   interests: [
-    "The Unvivese", 
+    "The Universe", 
     "Language Models", 
     "Ricing my setup (I Use Arch Btw)",
     "Gaming With Friends"
@@ -48,16 +46,15 @@ const gaurish = {
 ---
 
 ## 🚨 Current Status 
-
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" width="200" height="200"/>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="200"/>
       </td>
       <td>
-        <h3>Projects Temporarily</h3>
-        <p>Some repositories are currently private while I work one them a little more</p>
+        <h3>🔧 Projects in Development</h3>
+        <p>Some repositories are currently private while I work on them a little more</p>
         <p>Stay tuned! They'll return with significant improvements once finished!</p>
       </td>
     </tr>
@@ -67,11 +64,10 @@ const gaurish = {
 ---
 
 ## 🧠 Thoughts & Philosophy
-
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200"/>
+      <img align="center" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"/>
     </td>
     <td>
       <ul>
@@ -86,9 +82,7 @@ const gaurish = {
 
 ---
 
-
 ## 🌐 Connect With Me
-
 <div align="center">
     <h3>✨ Let's build something revolutionary together ✨</h3>
   <a href="https://twitter.com/GaurishMehra" target="_blank">
