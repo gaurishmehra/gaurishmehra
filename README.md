@@ -24,15 +24,15 @@
 const gaurish = {
   age: 17,
   location: "India",
-  education: {
-    current: "JEE Aspirant",
-    focus: ["Physics", "Chemistry", "Mathematics"]
+  about: {
+    current: "CSE Student",
+    focus: ["Studies", "Coding", "Gaming"]
   },
   interests: [
-    "Full Stack Development", 
-    "Open Source", 
+    "The Unvivese", 
     "Language Models", 
-    "Computational Thinking"
+    "Ricing my setup (I Use Arch Btw)",
+    "Gaming With Friends"
   ],
   currentFocus: "Balancing academic excellence with technical passion"
 };
@@ -56,10 +56,9 @@ const gaurish = {
         <img src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" width="200" height="200"/>
       </td>
       <td>
-        <h3>🔒 Projects Temporarily Hidden</h3>
-        <p>All repositories are currently private while I focus on JEE preparations.</p>
-        <p>Stay tuned! They'll return with significant improvements post-examination.</p>
-        <p><i>Expected return: After JEE 2025</i></p>
+        <h3>Projects Temporarily</h3>
+        <p>Some repositories are currently private while I work one them a little more</p>
+        <p>Stay tuned! They'll return with significant improvements once finished!</p>
       </td>
     </tr>
   </table>
@@ -91,7 +90,7 @@ const gaurish = {
 ## 🌐 Connect With Me
 
 <div align="center">
-    <h3>✨ Let's build something revolutionary together after JEE! ✨</h3>
+    <h3>✨ Let's build something revolutionary together ✨</h3>
   <a href="https://twitter.com/GaurishMehra" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
